@@ -17,7 +17,7 @@ def generate_positions():
 
 generate_positions()
 
-# E:\Python_seminars\Lesson1\homework\venv\Scripts\python.exe E:\Python_seminars\Lesson1\homework\HW06\task03\main.py
+# E:\Python_seminars\Lesson1\homework\venv\Scripts\python.exe E:\Python_seminars\Lesson1\homework\HW06\task03\main02.py
 # [(1, 5), (2, 2), (3, 4), (4, 7), (5, 3), (6, 8), (7, 6), (8, 1)]
 # [(1, 8), (2, 2), (3, 4), (4, 1), (5, 7), (6, 5), (7, 3), (8, 6)]
 # [(1, 3), (2, 6), (3, 4), (4, 1), (5, 8), (6, 5), (7, 7), (8, 2)]
